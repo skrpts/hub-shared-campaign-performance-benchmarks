@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "fc663a39-6117-4aa9-85f8-6bf02fcc355d"
+name: "campaign-performance-benchmarks"
+display_name: "Campaign Performance Benchmarks"
+description: "Industry benchmarks for advertising and marketing metrics by channel"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-campaign-performance-benchmarks"
+category: "shared"
+tags:
+  - "shared"
+  - "source"
+contents:
+  skills: 0
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 1
+  documents: 0
+  assets: 0
+  total: 1

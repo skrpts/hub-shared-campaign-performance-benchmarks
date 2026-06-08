@@ -3,7 +3,7 @@ id: "847dbe80-fe03-452c-be57-052a527f5e87"
 name: "campaign-performance-benchmarks"
 display_name: "Campaign Performance Benchmarks"
 description: "Industry benchmarks for advertising and marketing metrics by channel"
-version: "1.0.1"
+version: "1.0.2"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -14,6 +14,8 @@ category: "shared"
 tags:
   - "shared"
   - "source"
+dependencies: []
+
 contents:
   skills: 0
   prompts: 0
